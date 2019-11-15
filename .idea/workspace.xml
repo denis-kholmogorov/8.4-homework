@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f368384a-e66f-46cb-aa05-8a5865081856" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TbZFBpxbo0IIbUa202nchsDcZR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559109403663" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ConsoleCustomerList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f368384a-e66f-46cb-aa05-8a5865081856" name="Default Changelist" comment="" />
+      <created>1559106634874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559106634874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="935" y="471" width="292" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1573730679077">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="935" y="471" width="292" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1021@0.0.1680.1021" timestamp="1573730679077" />
+    <state x="696" y="337" width="426" height="479" key="FileChooserDialogImpl" timestamp="1573816929420">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="696" y="337" width="426" height="479" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1573816929420" />
+    <state width="1634" height="243" key="GridCell.Tab.0.bottom" timestamp="1573822140967">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="243" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1573822140967" />
+    <state width="1634" height="243" key="GridCell.Tab.0.center" timestamp="1573822140967">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="243" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1573822140967" />
+    <state width="1634" height="243" key="GridCell.Tab.0.left" timestamp="1573822140966">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="243" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1573822140966" />
+    <state width="1634" height="243" key="GridCell.Tab.0.right" timestamp="1573822140967">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="243" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1573822140967" />
+    <state x="533" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1573815854695">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="533" y="338" key="com.intellij.ide.util.TipDialog/0.0.1680.1021@0.0.1680.1021" timestamp="1573815854695" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
