@@ -35,12 +35,15 @@ public class Main
                 }
             }catch (EmailIncorrectInput | IncorrectPhoneNumber ex) {
                 System.out.println(ex.getMessage());
+                ex.printStackTrace();
 
             } catch (IOException ex) {
                 System.out.println(ex.getMessage());
+                ex.printStackTrace();
 
             } catch (Exception ex) {
                 System.out.println(ex.getMessage());
+                ex.printStackTrace();
             }
         }
     }
