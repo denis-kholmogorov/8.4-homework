@@ -1,4 +1,4 @@
-public class EmailIncorrectInput extends Exception{
+public class EmailIncorrectInput extends RuntimeException{
     public EmailIncorrectInput(String message){
         super(message);
     }
