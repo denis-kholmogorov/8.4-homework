@@ -13,7 +13,7 @@ public class CustomerStorage
     public void addCustomer(String data) throws EmailIncorrectInput, IncorrectPhoneNumber {
         String[] components = data.split("\\s+");
         if(components.length != 4){
-            throw new ArrayIndexOutOfBoundsException("Data entered incorrectly!\nExample: add Василий Петров" +
+            throw new ArrayIndexOutOfBoundsException("Data entered incorrectly!\nExample: add Василий Петров " +
                                                      "vasily.petrov@gmail.com +79215637722 ");
         }
         if(!components[2].matches("^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$")){
